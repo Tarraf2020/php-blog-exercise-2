@@ -12,5 +12,5 @@
 <div class="nav ">
   <a href="index.php">Home</a>
   <a href="add-data.php">ADD Blog</a>
-  <a href="">Log out</a>
+  <a href="logout.php">Log out</a>
 </div>

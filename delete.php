@@ -1,3 +1,4 @@
+<?php require 'auth.php'; ?>
 <?php 
 include_once 'dbconfig.php';
 if(isset($_POST['btn-del'])) {
